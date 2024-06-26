@@ -1,0 +1,11 @@
+id = "kdl"
+name = "KDL grammar"
+version = "0.1.0"
+schema_version = 1
+authors = ["Conrad Ludgate <conradludgate@gmail.com>"]
+description = "KDL (K Document Language) grammar support"
+repository = "https://github.com/conradludgate/zed-kdl"
+
+[grammars.kdl]
+repository = "https://github.com/tree-sitter-grammars/tree-sitter-kdl"
+commit = "b37e3d58e5c5cf8d739b315d6114e02d42e66664"
